@@ -1,1 +1,2 @@
 liunxpredict filter=lfs diff=lfs merge=lfs -text
+macpredict filter=lfs diff=lfs merge=lfs -text
