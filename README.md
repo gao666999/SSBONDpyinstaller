@@ -1,5 +1,5 @@
 # SSBONDpyinstaller
-Usage
+## Usage  
 1.download source code from github by running:
 ```
 git clone https://github.com/LiuLab-CSRC/SSBONDPredict.git
