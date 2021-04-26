@@ -12,9 +12,9 @@ git clone https://github.com/LiuLab-CSRC/SSBONDPredict.git
 predict 'pdbfile' 'the position of SSBONDPredict' 'the path of outpath'
 ```
 
-for example,you download the SSBONDPredict in your Desktop, after enter the directory of predict you can run predict like this:
+For example,if you choose MACOS version and you download the SSBONDPredict in your Desktop, after enter the directory of macpredict you can run macpredict like this:
 ```
-predict /root/Desktop/3irq.pdb /root/Desktop ./
+macpredict /root/Desktop/3irq.pdb /root/Desktop ./
 ```
 
 ## liunx version attention 
