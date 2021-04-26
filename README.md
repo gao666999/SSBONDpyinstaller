@@ -18,15 +18,15 @@ macpredict /root/Desktop/3irq.pdb /root/Desktop ./
 ```
 
 ## liunx version attention 
-If you want choose liunx version,you need to install docker first,the you can do like this:
+If you want choose liunx version,you need to install docker first,you can do like this:
 ```
 docker pull ubuntu
 ```
-Using the ubuntu image to start a container,and enter the container in command line mode:  
+then Using the ubuntu image to start a container,and enter the container in command line mode:  
 ```
 docker run -it ubuntu /bin/bash  
 ```
-then run predict in the container as above Usage.
+then run liunxpredict in the container as above Usage.
 For example:
 ```
 liunxpredict /root/users/test/Desktop/3irq.pdb  /root/users/test/Desktop ./
